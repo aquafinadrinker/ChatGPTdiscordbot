@@ -1,0 +1,9 @@
+How to use this bot
+
+Basic info you should know is: this is a very rudamentary implementation of GPT-3 for discord servers and is known to give very odd to very rude and hateful responses 
+so honestly if you've come for a well rounded and useful AI chatbot, you are in the wrong place.
+
+That aside, to run this bot you need the OpenAI and Discord python packages which can just be installed with pip, and obviously you need python3.
+Also you will need A Discord bot token from the developer portal and an OpenAI api key, these are easy to get, just go to their respective websites and register and get
+your keys, oh and I suggest you put those keys in a relatively safe place. Once you get your keys just amend the python code and paste your keys where marked. after you're
+done with that you can just run the python script and add the bot to your server. Once the bot is added you can just type in any channel and it will respond to what you type.
